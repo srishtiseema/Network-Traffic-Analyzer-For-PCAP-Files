@@ -8,19 +8,19 @@ Visualize protocol distribution
 Identify top communicating IP addresses
 Detect potential port scanning activities
 
-# Future Enhancements
+# 🔮 Future Enhancements
 Graph-based visualization for IP traffic patterns
 Advanced metrics: latency, packet loss, throughput, jitter, network utilization, and error rates
 
-# Installation
+# 🛠️ Installation
 Clone the repository
 Navigate to the project directory:
 cd network-traffic-analyzer
 
-# Install dependencies:
+# ▶️ Install dependencies:
 pip install -r requirements.txt
 
-# Usage
+# 🤝 Usage
 
 Run the following command to analyze a PCAP file:
 python Network_traffic_analyzer.py <path_to_pcap_file> <port_scan_threshold>
@@ -29,7 +29,7 @@ Replace <path_to_pcap_file> with your file path and <port_scan_threshold> with t
 
 
 
-# Acknowledgments
+# 🙌 Acknowledgments
 - Scapy for packet processing
 - Pandas for data analysis
 - Matplotlib for visualization
